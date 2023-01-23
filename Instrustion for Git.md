@@ -168,7 +168,11 @@ Markdown позволяет также использовать неявно в�
 1. Создаем конфликт.
 Добавляем следующую фразу:
 
- "This is documentation."
+ "This is  documentation."
+"This is documentation."
+
+"It contains lots of info."
+
 
 
 
